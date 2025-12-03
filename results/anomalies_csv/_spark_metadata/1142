@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/janmaypanchal/Desktop/PDEU/SEM6/BigData/gnss-project/results/anomalies_csv/part-00000-402ed7e0-5887-45a9-99fb-bcc4e9d5423f-c000.csv","size":584,"isDir":false,"modificationTime":1764755291454,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/janmaypanchal/Desktop/PDEU/SEM6/BigData/gnss-project/results/anomalies_csv/part-00001-b7f8c78a-4c42-40f8-bf83-2c7d07da11f1-c000.csv","size":391,"isDir":false,"modificationTime":1764755291558,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/janmaypanchal/Desktop/PDEU/SEM6/BigData/gnss-project/results/anomalies_csv/part-00002-f1d66d88-03f1-406f-b441-7486368b2d02-c000.csv","size":391,"isDir":false,"modificationTime":1764755291506,"blockReplication":1,"blockSize":33554432,"action":"add"}
